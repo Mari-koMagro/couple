@@ -1,0 +1,40 @@
+.card {
+    background-color: pink;
+    display: inline-block;
+    margin: 100px 100px;
+    padding: 50px 200px;
+    color: rgb(194, 4, 4);
+    border-radius: 30px;
+    position: relative;
+    z-index: -1;
+}
+.choose {
+    position: absolute;
+    background-color: rgb(194, 4, 4);
+    color: pink;
+    border-radius: 30px;
+    top: 1px;
+    right: 2px;
+    text-align: center;
+}
+.button {
+    position: fixed;
+    background-color: rgb(194, 4, 4);
+    color: pink;
+    border-radius: 30px;
+    padding: 10px;
+    bottom: 20px;
+    right: 20px;
+}
+.title {
+    position: fixed;
+    background-color: rgb(194, 4, 4);
+    color: pink;
+    top: 0px;
+    border-radius: 30px;
+    padding: 10px 200px;
+    margin-bottom:3000px ;
+}
+p {
+    margin-right: 120px;
+}
